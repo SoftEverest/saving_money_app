@@ -1,0 +1,5 @@
+target/
+.idea/
+web-ext-artifacts/
+
+.bsp/
